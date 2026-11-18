@@ -1,1 +1,1 @@
-# E-Commerce Customer Behavior & Sales 
+# E-Commerce Customer Segmentation
